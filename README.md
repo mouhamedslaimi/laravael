@@ -1,2 +1,2 @@
-# laravael
-# laravael
+# laravel
+# laravel
